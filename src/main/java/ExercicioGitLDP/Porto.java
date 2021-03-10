@@ -67,7 +67,6 @@ public class Porto {
             if (navios[i] instanceof Petroleiro) {
                 Petroleiro petroleiro = (Petroleiro) navios[i];
                 toneladas = toneladas + petroleiro.getCapacidadeCarga();
-                //toneladas = toneladas + ((Petroleiro)navios[i]).getCapacidadeCarga(); //forma alternativa de resolver
             } else if (navios[i] instanceof PortaContentores) {
                 PortaContentores portaContentores = (PortaContentores) navios[i];
                 toneladas = toneladas + portaContentores.getMaxContentores() * 10;
