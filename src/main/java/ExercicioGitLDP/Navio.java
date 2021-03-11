@@ -18,12 +18,11 @@ public class Navio {
     /**
      *
      */
-    protected String matricula, 
-
-    /**
-     *
-     */
-    nome;//Matricula do Navio (String), nome (String) e comprimento (float)
+    protected String matricula,
+            /**
+             *
+             */
+            nome;//Matricula do Navio (String), nome (String) e comprimento (float)
 
     /**
      *
