@@ -6,7 +6,7 @@
 package ExercicioGitLDP;
 
 /**
- *<h1>Petroleiro</h1>
+ *<p>Petroleiro</p>
  * A classe Petroleiro permite definir os a atributos de um navio petroleiro.
  * <p>Um petroleiro é um tipo de navio.</p>
  * 

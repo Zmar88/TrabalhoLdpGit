@@ -6,7 +6,7 @@
 package ExercicioGitLDP;
 
 /**
- * <h1>Navio</h1>
+ * <p>Navio</p>
  * A classe Navio permite definir os atributos de um navio.
  *
  * @author João Miranda

@@ -6,7 +6,7 @@
 package ExercicioGitLDP;
 
 /**
- * <h1>Main</h1>
+ * <p>Main</p>
  * Classe Main do programa.
  *
  * @author João Miranda

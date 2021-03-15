@@ -6,7 +6,7 @@
 package ExercicioGitLDP;
 
 /**
- * <h1>Porta Contentores</h1>
+ * <p>Porta Contentores</p>
  * A classe Porta Contentores permite definir os a atributos de um navio porta contentores.
  * <p>
  * Um porta contentores é um tipo de navio.</p>

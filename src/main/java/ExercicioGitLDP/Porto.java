@@ -6,7 +6,7 @@
 package ExercicioGitLDP;
 
 /**
- * <h1>Porto</h1>
+ * <p>Porto</p>
  * A classe Porto permite definir os a atributos de um porto.
  * <p>
  * Um porto armazena navios.</p>
